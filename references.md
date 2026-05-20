@@ -1,4 +1,10 @@
-# Some reference works
+# Some reference works on applications of graphene nanoscrolls
+
+Mpourmpakis, G., Tylianakis, E., & Froudakis, G. E. (2007). Carbon nanoscrolls: a promising material for hydrogen storage. Nano letters, 7(7), 1893-1897.
+
+Liu, H., Le, T., Zhang, L., & Xu, M. (2018). Carbon nanoscrolls: synthesis and applications. Journal of Materials Science: Materials in Electronics, 29(22), 18891-18904.
+
+# Some additional reference works
 
 Bacon, R. (1960). Growth, structure, and properties of graphite whiskers. Journal of Applied Physics, 31(2), 283–290.
 
