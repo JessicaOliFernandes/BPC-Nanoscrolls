@@ -5,6 +5,13 @@ This work aims to propose a new class of carbon nanoscrolls, constructed from BP
 
 gen_scroll_tex.py: This Python script, scrollgenerator (v1.01) developed by Ricardo Paupitz, is a geometric tool designed for computational materials science. It transforms a flat, 2D atomic sheet (provided via an .xyz file) into a scroll-like structure (nanoscroll). The script takes a sheet aligned on a specific Cartesian plane ($xy$, $xz$, or $yz$) and mathematically "rolls" it around a user-defined axis using an Archimedean spiral algorithm. It carefully preserves the structural thickness and interatomic distances of the original sheet during the deformation process.
 
+distances.py: This Python script performs a post-processing geometric analysis on 3D nanoscroll structures using atomic coordinates extracted from an .xyz file. It projects the 3D atomic network into a 2D cross-section based on the winding axis (x,y, or z) and employs an angular-slicing algorithm (_find_layers) to classify atoms into individual concentric layers. Furthermore, it dynamically refines the core center, calculates the precise radius of the core, computes true nearest-neighbor inter-layer distances, exports the textual summary to a file, and visualizes the classified structure.
+
+# Contacts
+
+Jéssica Fernandes: jessica.o.fernandes@unesp.br
+Ricardo Paupitz: ricardo.paupitz@unesp.br
+
 <img width="1236" height="415" alt="logo_cinza_page-0001" src="https://github.com/user-attachments/assets/b663acc5-c67c-4681-af27-740f5cb74e2a" />
 
 
