@@ -1,7 +1,7 @@
 # BPC-Nanoscrolls
 This work aims to propose a new class of carbon nanoscrolls, constructed from BPC sheets. Our goal is to predict the physical characteristics of the structures through stability analyses, their electronic properties, and, as done in Fabris et al.(DOI https://doi.org/10.1039/D3CP06193K), the electronic activation of these structures through charge injection.
 
-#Available scripts
+# Available scripts
 
 gen_scroll_tex.py: This Python script, scrollgenerator (v1.01) developed by Ricardo Paupitz, is a geometric tool designed for computational materials science. It transforms a flat, 2D atomic sheet (provided via an .xyz file) into a scroll-like structure (nanoscroll). The script takes a sheet aligned on a specific Cartesian plane ($xy$, $xz$, or $yz$) and mathematically "rolls" it around a user-defined axis using an Archimedean spiral algorithm. It carefully preserves the structural thickness and interatomic distances of the original sheet during the deformation process.
 
